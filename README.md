@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a third year student of information systems engineering at the National Technological University (UTN)<br><br>I have knowledge in C++, C, Go, Java, Haskell, Prolog, Wollok, Python, SQL and T-SQL.
+I am currently a third year student of information systems engineering at the National Technological University (UTN)<br><br>I have knowledge in C++, C, Go, Javascript, Java, Haskell, Prolog, Wollok, Python, SQL and T-SQL.
 
 
 ## 🌐 Socials:
